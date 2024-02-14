@@ -1,0 +1,4 @@
+Tujuan utama adalah untuk memprediksi risk_rating atau tingkat risiko kredit yang bisa diberikan
+oleh seorang nasabah berdasarkan fitur-fitur yang diberikan. 
+risk_rating mungkin merupakan kategori yang mengindikasikan 
+seberapa besar risiko kredit yang dimiliki oleh peminjam
